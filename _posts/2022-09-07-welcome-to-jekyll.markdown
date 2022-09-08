@@ -4,6 +4,16 @@ title:  "Welcome to Jekyll!"
 date:   2022-09-07 18:06:19 -0600
 categories: jekyll update
 ---
+[]: # (This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/))
+
+[]: # (You can find the source code for Minima at GitHub:)
+[]: # ([jekyll][jekyll-organization] /)
+[]: # ([minima](https://github.com/jekyll/minima))
+
+[]: # (You can find the source code for Jekyll at GitHub:)
+[]: # ([jekyll][jekyll-organization] /)
+[]: # ([jekyll](https://github.com/jekyll/jekyll))
+
 CHANGE You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
