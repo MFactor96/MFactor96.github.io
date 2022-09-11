@@ -20,10 +20,10 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h3>
-        {%- if post.category=="life" -%}
+          {%- if post.category=="life" -%}
           <span class="cat-life">{{ post.catagory | default: "Life" }}</span>
         {%- endif -%}
+        </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
