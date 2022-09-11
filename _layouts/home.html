@@ -16,7 +16,7 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}
-          {%- if post.catagory=="life" -%}
+          {%- if post.category=="life" -%}
           class="cat-life">{{ post.catagory }}
         </span>
         <h3>
