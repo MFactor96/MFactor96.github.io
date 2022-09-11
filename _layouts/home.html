@@ -16,14 +16,14 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        {%- if post.category=="life" -%}
-          <span class="cat-life">{{ post.catagory | default: "Life" }}</span>
-          {%- endif -%}
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
+        {%- if post.category=="life" -%}
+          <span class="cat-life">{{ post.catagory | default: "Life" }}</span>
+        {%- endif -%}
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
