@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Problems with Themes"
-date:   2022-09-11 11:00:00 -0600
+date:   2022-09-11 9:00:00 -0600
 categories: code
 ---
 
