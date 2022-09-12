@@ -23,6 +23,9 @@ layout: default
           {%- if post.category=="life" -%}
           <span class="cat-life">{{ post.catagory | default: "Life" }}</span>
         {%- endif -%}
+          {%- if post.category=="code" -%}
+          <span class="cat-code">{{ post.catagory | default: "Code" }}</span>
+        {%- endif -%}
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
