@@ -219,6 +219,17 @@
   font-weight: bold;
 }
 
+.cat-code {
+  font-size: $small-font-size;
+  color: $red;
+  border-radius: 10px;
+  border: 2px solid #000000;
+  padding: 4px;
+  width: 200px;
+  height: 150px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
 
 /**
  * Posts
