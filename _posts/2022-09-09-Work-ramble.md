@@ -2,7 +2,7 @@
 layout: post
 title:  "Work ramble"
 date:   2022-09-09 11:00:00 -0600
-categories: life
+category: life
 ---
 
 Here goes nothing. For those of you that don't know I am currently working as a maintenace manager for a landscaping company. I directly oversee an irrigation tech and a genernal laborer. Most of my work involves tranistioning over properties from the construction side to setting them up with my varity of sub contractors to mow. Not exactly a very technical job that's why I started this blog to help grow those skills. 
