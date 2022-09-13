@@ -11,4 +11,3 @@ This site uses gem themes at the current moment which means that the author of t
 
 As you can see its not quite what I am trying to go for. The next step is to try and get the main branch to successfully revert to the same postion this branch is at. Then I get to try again to pull the theme into my local repo and then I can start playing around with the css and js to customized the theme to make it my own.
 
-If any of my dnd players read this and send me a simple letter written from their character's point of view they will recieve a hero point next time we get to play!
