@@ -6,6 +6,14 @@ category: life
 ---
 
 All the stuff I am not good at...What a list to make. So instead I will make a table!
+
+<table>
+  <tr>
+    <th>Things I am not good at</th>
+    <th>Things I am also not good at</th>
+  </tr>
+</table>
+
 | Things I am not good at | Things I am not good at also |
 |---|---|
 | Making lists and tables | Drawing |
