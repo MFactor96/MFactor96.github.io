@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Work ramble"
-date:   2022-10-09 11:00:00 -0600
+date:   2022-09-09 11:00:00 -0600
 category: life
 ---
 
