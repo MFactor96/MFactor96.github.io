@@ -41,4 +41,4 @@ Things I am good enough at
 17. 
 18. 
 
-I am just awful at making lists. 
+I am just awful at making lists. Soon I will ☯️ balance these both out!
