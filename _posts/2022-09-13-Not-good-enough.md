@@ -42,3 +42,5 @@ Things I am good enough at
 18. 
 
 I am just awful at making lists. Soon I will ☯️ balance these both out!
+
+Coming soon to a blog near you "Things I am getting better at"
