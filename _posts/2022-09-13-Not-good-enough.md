@@ -28,7 +28,7 @@ Things I am good enough at
 4. Waking up on time
 5. Landscaping
 6. Money management
-7. 
+7. Being a friend[^1]
 8. 
 9. 
 10. 
@@ -44,3 +44,5 @@ Things I am good enough at
 I am just awful at making lists. Soon I will ☯️ balance these both out!
 
 Coming soon to a blog near you "Things I am getting better at"
+
+[^1]: Suggested by a friend.
