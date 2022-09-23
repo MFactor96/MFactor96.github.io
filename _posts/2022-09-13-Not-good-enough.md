@@ -5,7 +5,7 @@ date:   2022-09-13 9:00:00 -0600
 category: life
 ---
 
-All the stuff I am not good at...What a list to make. So instead I will make a table!
+All the stuff I am not good at...What a list to make. So instead I will make a table
 
 | Things I am not good at | Things I am not good at also |
 |---|---|
