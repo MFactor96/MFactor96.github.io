@@ -18,3 +18,5 @@ So who am I? I am Wyatt. A failed perfectionist, who takes himself way too serio
 But its killing me. Without people close to me there doesnt feel like there is a lot of reason to keep going. But I must always remember that there are people close to me always. Even if they aren't physically here, they are always with me. I can see them all with me wherever I am. 
 
 It is silly to think that I need to be out there and socializing in order to be whole. I am here for my friends. and I know they know that. That's good enough for me for now. I am going to work on fixing the title color for a bit now. I will make an apearance a bit later when everyone is a bit more tipsy.
+
+I fixed the title, now its party time!
