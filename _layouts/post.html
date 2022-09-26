@@ -17,14 +17,14 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-    <script src="https://utteranc.es/client.js"
+  </div>
+   <script src="https://utteranc.es/client.js"
         repo="[ENTER REPO HERE]"
         issue-term="pathname"
         theme="github-dark"
         crossorigin="anonymous" 
         async>
     </script>
-  </div>
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
