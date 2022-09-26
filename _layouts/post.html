@@ -18,6 +18,7 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+  <div class="utterances" style="height: 683px;">
    <script src="https://utteranc.es/client.js"
         repo="[ENTER REPO HERE]"
         issue-term="pathname"
@@ -25,7 +26,8 @@ layout: default
         crossorigin="anonymous" 
         async>
     </script>
-
+  </div>
+    
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
