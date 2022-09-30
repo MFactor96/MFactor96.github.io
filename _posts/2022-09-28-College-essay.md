@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "College essay"
-date:   2022-09-29 11:45:19 -0600
+date:   2022-09-28 11:45:19 -0600
 category: life
 ---
 
