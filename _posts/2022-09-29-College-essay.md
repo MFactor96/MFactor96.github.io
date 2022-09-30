@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "College essay"
-date:   2022-09-27 11:45:19 -0600
-category: code
+date:   2022-09-29 11:45:19 -0600
+category: life
 ---
 
 Alright this one is going to be a trip. I need to write an essay about me for the college application and I am going to do it on here. It is a frightning thought but here we are.
