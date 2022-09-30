@@ -17,3 +17,5 @@ It needs to have a 250-650 word count and be about one of the following:
 -  Share an essay on any topic of your choice. It can be one you've already written, one that responds to a different prompt, or one of your own design. 
 
 On a quick first glance at my options, I think the best topic to choose whould be "Describe a topic, idea, or concept you find so engaging that it makes you lose all track of time. Why does it captivate you? What or who do you turn to when you want to learn more?". Creating and adjusting this blog is that for me. I think it would fit pretty well and maybe just maybe writing an essay about it and me won't be too awful for me.
+
+***Due November 1st***
